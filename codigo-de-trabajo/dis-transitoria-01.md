@@ -1,0 +1,2 @@
+# Disposición transitoria primera
+PRIMERA: Los trabajadores que actualmente estudian en la Educación Superior y reciben los beneficios y facilidades que se establecieron por el Decreto No. 91 de 25 de mayo de 1981 en su artículo 11, por el que son relevados de sus labores para dedicarse a estudiar en los cursos diurnos de la educación superior, y que perciben durante sus estudios un estipendio no reintegrable, mantienen dichas facilidades hasta el término de sus estudios.

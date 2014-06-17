@@ -1,0 +1,2 @@
+# Disposición final cuarta
+CUARTA: Los ministerios de las Fuerzas Armadas Revolucionarias y del Interior, teniendo en cuenta la política y los lineamientos trazados en el país y las características propias de dichas instituciones, aprueban las normas y disposiciones que en materia laboral, salarial y de otras retribuciones monetarias corresponda aplicar a los militares y a sus trabajadores civiles.
