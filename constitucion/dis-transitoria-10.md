@@ -1,0 +1,2 @@
+# Disposición transitoria décima
+El Consejo de Gobierno del Tribunal Supremo Popular, en el plazo de dieciocho meses de entrada en vigor de la Constitución, presenta a la Asamblea Nacional del Poder Popular el proyecto de nueva Ley de los Tribunales Populares, ajustado a los cambios que en la presente Constitución se establecen, así como las propuestas de modificaciones a la Ley de Procedimiento Penal y a la Ley de Procedimiento Civil, Administrativo, Laboral y Económico, que correspondan.

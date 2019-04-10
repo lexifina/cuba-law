@@ -1,0 +1,2 @@
+# Disposición transitoria primera
+Antes del plazo de seis meses, después de haber entrado en vigor la presente Constitución, la Asamblea Nacional del Poder Popular aprueba una nueva Ley Electoral, en la que regule la elección de los diputados a la Asamblea Nacional, su Presidente, Vicepresidente y Secretario; el Consejo de Estado, el Presidente y Vicepresidente de la República, los miembros del Consejo Electoral Nacional, los gobernadores y vicegobernadores provinciales, los delegados a las asambleas municipales del Poder Popular, su Presidente y Vicepresidente.
