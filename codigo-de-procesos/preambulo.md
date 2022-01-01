@@ -1,0 +1,5 @@
+# Preámbulo
+POR CUANTO: La Constitución de la República, en sus artículos 92, 94, 147, 148, 150, 151 y 153 reconoce a los tribunales de justicia como garantes de los derechos e intereses legítimos de las personas mediante el despliegue de la tutela judicial efectiva y el debido proceso, instituciones que requieren de un desarrollo procesal.
+POR CUANTO: En correspondencia con el orden constitucional vigente, los tratados internacionales en vigor para la República de Cuba y las tendencias actuales del Derecho procesal, se requiere sistematizar formas de actuación judicial que privilegien el papel activo de los juzgadores, con prevalencia del principio de oralidad y la utilización de herramientas procesales, que favorezcan la interacción con las partes, y aseguren la realización de la justicia.
+POR CUANTO: La Disposición Transitoria Décima de la Constitución de la República encomendó al Consejo de Gobierno del Tribunal Supremo Popular la presentación de esta Ley.
+POR TANTO: La Asamblea Nacional del Poder Popular, en el ejercicio de la facultad que le confiere el Artículo 108, inciso c), de la Constitución de la República, aprueba la siguiente:
