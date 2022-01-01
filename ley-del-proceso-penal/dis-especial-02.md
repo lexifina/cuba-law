@@ -1,0 +1,2 @@
+# Disposición especial segunda
+SEGUNDA: En cualquier fase del proceso penal puede ser solicitada la extracción de documentos del atestado, expediente, o causa por quien lo haya presentado; de accederse se confecciona acta en la que se consignan los folios del documento, su clase y demás datos necesarios para su identificación, con expresión del destino que se le haya dado; dicha acta ocupa el lugar del último documento desglosado y debe ser foliada; cuando el documento constituya fundamento del fallo, se deniega dicha pretensión.
