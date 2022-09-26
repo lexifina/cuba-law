@@ -1,0 +1,5 @@
+# Disposición final decimosegunda
+DECIMOSEGUNDA: Se modifica el inciso c) del Artículo 409 y se le adicionan dos apartados, correspondientes al Capítulo IV “Extinción”, del Título XI “Mandato”, del Libro III “Derecho de obligaciones y contratos”, de la Ley No. 59, de 16 de julio de 1987, “Código Civil”, el que queda redactado de la manera siguiente: “ARTÍCULO 409.1. Además de las causas generales de extinción de las obligaciones, el mandato se extingue por: (…)
+c) provisión de un apoyo intenso con facultades de representación a la persona en situación de discapacidad, ausencia, inhabilitación o muerte del mandante o del mandatario; (…)
+2. Si el poderdante otorga poder solo para el supuesto de que en el futuro precise apoyo en el ejercicio de la capacidad jurídica, no se aplica la causal de extinción prevista en el apartado c) relativa al nombramiento de apoyo intenso con facultades de representación, del presente artículo.
+3. También el poderdante puede incluir en el poder una cláusula que estipule su subsistencia, si en el futuro precisa apoyo en el ejercicio de su capacidad jurídica.”

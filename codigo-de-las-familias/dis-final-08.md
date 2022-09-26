@@ -1,0 +1,3 @@
+# Disposición final octava
+OCTAVA: Se modifica el Artículo 133 del Capítulo I “Disposiciones generales”, del Título II “Derecho de propiedad”, del Libro II “Derecho de propiedad y otros derechos sobre bienes”, de la Ley No. 59. de 16 de julio de 1987, “Código Civil”, el que queda redactado de la manera siguiente: “ARTÍCULO 133. (…)
+2. El que resulte afectado en su integridad personal o en sus bienes al cumplir el deber a que se refiere el apartado anterior, tiene derecho a indemnización, e igual derecho tienen su cónyuge, pareja de hecho afectiva, parientes o personas a su abrigo, en caso de su fallecimiento.”

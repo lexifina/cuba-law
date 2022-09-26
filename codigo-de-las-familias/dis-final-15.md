@@ -1,0 +1,3 @@
+# Disposición final decimoquinta
+DECIMOQUINTA: Se modifica el Artículo 476 la Sección Primera “Testamento”, del Capítulo I “Disposiciones generales”, del Título II “Sucesión testamentaria”, del Libro IV “Derecho de sucesiones”, de la Ley No. 59, de 16 de julio de 1987, “Código Civil”, el que queda redactado de la manera siguiente: “ARTÍCULO 476.1. Por el testamento, una persona dispone de todo su patrimonio o de una parte de este para después de su muerte, con las limitaciones que este Código y otras disposiciones legales establecen.
+2. El testamento también puede contener disposiciones no patrimoniales, relativas a situaciones sustentadas en la existencia y centralidad de la persona.”

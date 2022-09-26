@@ -1,0 +1,3 @@
+# Disposición final séptima
+SÉPTIMA: Se modifica el Artículo 123 del Capítulo IV “Suspensión de la prescripción”, del Título VIII “Prescripción de acciones”, del Libro I “Relación jurídica”, de la Ley No. 59, de 16 de julio de 1987, “Código Civil”, el que queda redactado de la manera siguiente: “ARTÍCULO 123.1. El término de prescripción se suspende:
+c) durante el matrimonio, en relación con los derechos de uno de los cónyuges respecto al otro, si se tratara de una unión de hecho afectiva, según lo previsto en el Código de las Familias, mientras subsista dicha unión, en relación con los derechos de uno de los miembros respecto al otro;”

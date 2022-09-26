@@ -1,0 +1,2 @@
+# Disposición final cuadragésima
+CUADRAGÉSIMA: El Ministerio de Trabajo y Seguridad Social, a partir de la aprobación de este Código, dicta las normas jurídicas sobre protección a la maternidad y paternidad para las madres y los padres comitentes y para la gestante solidaria; así como para la protección de los derechos de las personas cuidadoras familiares, según corresponda, en el ámbito de su competencia.

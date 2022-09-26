@@ -1,0 +1,2 @@
+# Disposición transitoria segunda
+SEGUNDA: Los asuntos radicados en cualquiera de los tribunales, relativos al reconocimiento judicial de la unión matrimonial no formalizada a que se refiere el Código de Familia, Ley No. 1289, de 14 de febrero de 1975, que se encuentren en tramitación a la entrada en vigor de este Código de las Familias, continuarán sustanciándose conforme a las disposiciones contenidas en el Código anterior; el resto de los asuntos pendientes de tramitación se ajustarán a las normas contenidas en este Código.
