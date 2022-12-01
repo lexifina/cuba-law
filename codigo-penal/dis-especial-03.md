@@ -1,0 +1,2 @@
+# Disposición especial tercera
+El Consejo de Ministros, dentro de los noventa días posteriores a la publicación del presente Código en la Gaceta Oficial de la República, propone al Consejo de Estado el proyecto de decreto-ley para regular las atribuciones y funcionamiento de la Caja de Resarcimientos, como entidad pública encargada de hacer efectiva la responsabilidad civil derivada del delito, declarada en la sentencia.
