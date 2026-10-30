@@ -1,0 +1,103 @@
+{
+ "country": "CU",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la República de Cuba (2019)",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-ex5.pdf",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 247,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-ex5.pdf",
+     "sha256": "595a3b808c93dc0533c1517d90a0c22e445dd5bcc638a9e8159c16493e1b2fef"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "Código Penal",
+   "title": "Código Penal (Ley No. 151/2022)",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2022-o93_0.pdf",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 444,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2022-o93_0.pdf",
+     "sha256": "eff887708aa188d9dfdb30eefeba3b3c28825382a2b9bd214fbb7e9f6a21ad20"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-civil",
+   "short": "Código Civil",
+   "title": "Código Civil (Ley No. 59/1987), versión actualizada",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/codigo_civil_actualizado_0.pdf",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 542,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/codigo_civil_actualizado_0.pdf",
+     "sha256": "b60db54d2ffa2388ac45627a74f78b50b65fe482306ba256e6229b67fb3ed51f"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-las-familias",
+   "short": "Código de las Familias",
+   "title": "Código de las Familias (Ley No. 156/2022)",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2022-o99.pdf",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 525,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2022-o99.pdf",
+     "sha256": "7c4d6e1a8c44bcf59f84024e6735cb66783c251c65aaf59281a7da6df4afd187"
+    }
+   ]
+  },
+  {
+   "slug": "ley-del-proceso-penal",
+   "short": "Ley del Proceso Penal",
+   "title": "Ley del Proceso Penal (Ley No. 143/2021)",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2021-o140_1.pdf",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 857,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2021-o140_1.pdf",
+     "sha256": "cd5e2b20ef618a386135441ba00a34e44150be2d6ab78fc17f0a13d2c3755c72"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-procesos",
+   "short": "Código de Procesos",
+   "title": "Código de Procesos (Ley No. 141/2021)",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2021-o138.pdf",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 663,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2021-o138.pdf",
+     "sha256": "5d8e22576556e027d7fab7a9e3b0e1292bd3a51d4db0f6fce38c5e2f2d860236"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-trabajo",
+   "short": "Código de Trabajo",
+   "title": "Código de Trabajo (Ley No. 116/2013)",
+   "url": "https://www.gacetaoficial.gob.cu/sites/default/files/go_x_029_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 206,
+     "source_url": "https://www.gacetaoficial.gob.cu/sites/default/files/go_x_029_2014.pdf",
+     "sha256": "ddb0b7ea4f1bda37c63b734718e85a64fd98eac82ef19bc81b85ed1a4c0d1799"
+    }
+   ]
+  }
+ ]
+}
