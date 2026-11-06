@@ -1,5 +1,7 @@
 # Cuba: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Cuba's national law, which global-law reads at `cuba/national/acts/`.
+
 The law of Cuba as a git history: one file per provision, and the law that made each change as the commit's author, so `git blame` names the law behind every line.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `cu/`.
