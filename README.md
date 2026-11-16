@@ -60,6 +60,7 @@ Las cinco normas tal como se aprobaron se atribuyen a la propia ley (`Ley No. 15
 - Cada texto se toma del PDF nativo digital de la Gaceta: los encabezados se mantienen al principio del artículo que les sigue, se omiten los encabezados de página, las fórmulas de promulgación y las firmas, y se unen las palabras divididas entre líneas. `REPRODUCE.md` enumera cada decisión tomada a mano.
 - `tools/check_repo.py` vuelve a leer desde git cada versión el día en que entró en vigor y el día anterior; ambas lecturas deben coincidir con el corpus: 7 versiones de 7 normas, 0 discrepancias, y una segunda compilación dio hashes idénticos ([`REPRODUCE.md`](REPRODUCE.md)).
 - No hay commits de fusión (merge) en `main`, ni fechas de commit que retrocedan, ni nada fechado después de la compilación, y los trailers de todos los commits se analizan sin errores. Las versiones nuevas se añaden encima con `tools/append.py`, nunca reescribiendo la historia.
+- [vulnerabilities/](vulnerabilities/): posibles errores de redacción en este derecho, hallados por los detectores de global-law y revisados a mano. Aún no se ha ejecutado.
 
 ## Qué no muestra
 
@@ -80,6 +81,10 @@ Véase [`LICENSE`](LICENSE). El sitio de la Gaceta Oficial no indica ninguna lic
 Ningún modelo de IA escribió, tradujo ni corrigió texto normativo, y ninguno se ejecuta durante la compilación; los scripts los escribió Claude Code con Claude Opus 5.5 (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
+
+## Visualizaciones
+
+- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
 
 ## Más información
 

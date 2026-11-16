@@ -60,6 +60,7 @@ The five acts as enacted are credited to the law itself (`Ley No. 151/2022`). Th
 - Each text is taken from the Gaceta's born-digital PDF: headings stay at the start of the article that follows them, page headers, enacting formulas and signatures are left out, and words split across lines are joined. `REPRODUCE.md` lists every decision made by hand.
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before; both must match the corpus: 7 versions of 7 acts, 0 mismatches, and a second build gave identical hashes ([`REPRODUCE.md`](REPRODUCE.md)).
 - No merge commits on `main`, no commit dates that go backwards, nothing dated after the build, and every commit's trailers parse. New versions go on top with `tools/append.py`, never by rewriting.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ The five acts as enacted are credited to the law itself (`Ley No. 151/2022`). Th
 See [`LICENSE`](LICENSE). The Gaceta Oficial's site states no licence; the official legal texts are reproduced for reference with attribution to the publisher. Lexifina's arrangement of this repository, its commit messages and tools may be reused under the Creative Commons Attribution 4.0 International licence.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
